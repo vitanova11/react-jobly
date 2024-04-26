@@ -1,0 +1,17 @@
+.company-info {
+    background-color: #393e46;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.CompanyCard,
+.CompanyCard:visited {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.company-title {
+    padding-bottom: 5px;
+    margin: 5px;
+}

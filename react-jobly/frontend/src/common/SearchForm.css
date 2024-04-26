@@ -1,0 +1,19 @@
+.SearchForm input:focus {
+    box-shadow: none;
+    border-color: #ced4da;
+  }
+
+  .SearchForm {
+    margin-top: 10px;
+  }
+
+  button {
+    background-color:#dc2f2fc7;
+    border-radius: 5px;
+    border-color: #dc2f2f;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 5px;
+    color: white;
+    font-weight: bold;
+  }

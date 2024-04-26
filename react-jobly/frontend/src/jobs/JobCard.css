@@ -1,0 +1,25 @@
+.card-body {
+    background-color: #393e46;
+    color: #f2f2f2;
+    margin: 20px;
+    border-radius: 5px;
+    position: flex;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
+
+.apply-btn {
+    background-color: #dc2f2f;
+    border-color: #dc2f2fc7;
+    float: right;
+    margin-right: 10px;
+}
+
